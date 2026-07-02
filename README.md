@@ -47,6 +47,7 @@ Shopping-Cart-Calculator/
 2. Open the project folder.
 3. Double-click `index.html`.
 4. The shopping cart will open in your web browser.
+5. 
 
 ---
 
